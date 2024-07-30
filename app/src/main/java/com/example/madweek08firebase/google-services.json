@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78437994769",
+    "project_id": "mad06-faa18",
+    "storage_bucket": "mad06-faa18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78437994769:android:2c2ea07ed15c2456637cb0",
+        "android_client_info": {
+          "package_name": "com.example.madweek08firebase.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGU9IlImTlfAjJT5T-ai3dw0SLoNooa1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

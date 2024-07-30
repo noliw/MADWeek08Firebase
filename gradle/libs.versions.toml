@@ -2,6 +2,7 @@
 accompanist-permissions = "0.32.0"
 agp = "8.5.0"
 datastore-preferences = "1.1.1"
+firebase-bom-version = "33.1.2"
 google-accompanist-permissions = "0.31.1-alpha"
 hilt-work = "1.2.0"
 kotlin = "2.0.0"
@@ -44,6 +45,9 @@ androidx-lifecycle-viewmodel-ktx = { module = "androidx.lifecycle:lifecycle-view
 androidx-paging-compose = { module = "androidx.paging:paging-compose", version.ref = "paging-compose" }
 androidx-work-runtime-ktx = { module = "androidx.work:work-runtime-ktx", version.ref = "work-runtime-ktx" }
 core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "core-ktx" }
+firebase-bom-v3312 = { module = "com.google.firebase:firebase-bom", version.ref = "firebase-bom-version" }
+google-firebase-analytics = { module = "com.google.firebase:firebase-analytics" }
+google-firebase-auth = { module = "com.google.firebase:firebase-auth" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-test-ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "androidx-test-ext-junit" }
 espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espresso-core" }
