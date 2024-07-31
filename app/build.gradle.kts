@@ -86,6 +86,10 @@ dependencies {
     implementation(libs.google.firebase.analytics)
     implementation(libs.google.firebase.auth)
 
+    implementation(libs.androidx.datastore.preferences)
+
+
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.test.ext.junit)
     androidTestImplementation(libs.espresso.core)
